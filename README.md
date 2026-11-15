@@ -28,10 +28,10 @@ A merchant payments platform on synthetic data. Each payment gets one timeline, 
 
 ## More case studies
 
-Written up on my portfolio site:
+Written up on my portfolio site, with the code here on GitHub:
 
-- [Regional Sales Data](https://brendanmair.pages.dev/projects/regional-sales/): revenue shows what sells, not what earns. Cleaned the data, built profit measures and three dashboards, and found which of four channels earns the most per unit. `Excel` `SQL` `Tableau`
-- [Congress and Voter Behavior](https://brendanmair.pages.dev/projects/congress-voting/): does making turnout public raise voting? Tested in RStudio; the honest answer is maybe, but the data cannot prove it. `R`
+- [Regional Sales Data](https://brendanmair.pages.dev/projects/regional-sales/): revenue shows what sells, not what earns. Cleaned the data, built profit measures and three dashboards, and found which of four channels earns the most per unit. [Code](https://github.com/brendanmair-project/regional-sales-sql) · `Excel` `SQL` `Tableau`
+- [Congress and Voter Behavior](https://brendanmair.pages.dev/projects/congress-voting/): does making turnout public raise voting? Tested in RStudio; the honest answer is maybe, but the data cannot prove it. [Code](https://github.com/brendanmair-project/congress-voter-behavior) · `R`
 
 ## Tools
 
